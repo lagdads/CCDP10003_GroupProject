@@ -1,13 +1,3 @@
-# 默认忽略的文件
-/shelf/
-/workspace.xml
-# Rider 忽略的文件
-/contentModel.xml
-/projectSettingsUpdater.xml
-/modules.xml
-/.idea.Unimelb_game.iml
-# 基于编辑器的 HTTP 客户端请求
-/httpRequests/
-# Datasource local storage ignored files
-/dataSources/
-/dataSources.local.xml
+version https://git-lfs.github.com/spec/v1
+oid sha256:4e31e431fa8c7972c901bd96489fd72a49c3687f6cc3d2ca6458846554a5fe24
+size 289
