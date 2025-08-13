@@ -9,7 +9,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 1834003245704062821}
-  - component: {fileID: 3574635910063438499}
+  - component: {fileID: -7375115351660640582}
   m_Layer: 5
   m_Name: item
   m_TagString: Untagged
@@ -38,7 +38,7 @@ RectTransform:
   m_AnchoredPosition: {x: 0, y: 0}
   m_SizeDelta: {x: 1250, y: 4}
   m_Pivot: {x: 0.5, y: 1}
---- !u!114 &3574635910063438499
+--- !u!114 &-7375115351660640582
 MonoBehaviour:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
@@ -47,7 +47,7 @@ MonoBehaviour:
   m_GameObject: {fileID: 2234035270887191998}
   m_Enabled: 1
   m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 0d9adb7649c98c4418caa6355c44a6df, type: 3}
+  m_Script: {fileID: 11500000, guid: d106a27adae3f4d3fa08c167d4e175d9, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
 --- !u!1 &4384178521267788245
@@ -117,8 +117,8 @@ MonoBehaviour:
       m_Calls: []
   m_text: "\u8BF7\u8F93\u5165\u6587\u672C\u3002"
   m_isRightToLeft: 0
-  m_fontAsset: {fileID: 11400000, guid: 72d4f9e6d6742f348b65b60d95807855, type: 2}
-  m_sharedMaterial: {fileID: -4188130342698725918, guid: 72d4f9e6d6742f348b65b60d95807855, type: 2}
+  m_fontAsset: {fileID: 11400000, guid: 93f5cc17252024782bc28536c9095cf2, type: 2}
+  m_sharedMaterial: {fileID: -7286130391379454299, guid: 93f5cc17252024782bc28536c9095cf2, type: 2}
   m_fontSharedMaterials: []
   m_fontMaterial: {fileID: 0}
   m_fontMaterials: []
@@ -251,8 +251,8 @@ MonoBehaviour:
       m_Calls: []
   m_text: "\u3010\u661F\u661F\u706B\u67F4\u3011"
   m_isRightToLeft: 0
-  m_fontAsset: {fileID: 11400000, guid: 72d4f9e6d6742f348b65b60d95807855, type: 2}
-  m_sharedMaterial: {fileID: -4188130342698725918, guid: 72d4f9e6d6742f348b65b60d95807855, type: 2}
+  m_fontAsset: {fileID: 11400000, guid: 93f5cc17252024782bc28536c9095cf2, type: 2}
+  m_sharedMaterial: {fileID: -7286130391379454299, guid: 93f5cc17252024782bc28536c9095cf2, type: 2}
   m_fontSharedMaterials: []
   m_fontMaterial: {fileID: 0}
   m_fontMaterials: []

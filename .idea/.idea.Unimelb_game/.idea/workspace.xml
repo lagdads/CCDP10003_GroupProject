@@ -4,7 +4,32 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="907b9ea3-9f2c-445a-8240-1dd987f1315b" name="更改" comment="" />
+    <list default="true" id="907b9ea3-9f2c-445a-8240-1dd987f1315b" name="更改" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.Unimelb_game/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.Unimelb_game/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Arts/Background/16793359077517062783.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Arts/Background/16793359077517062783.png.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Arts/Background/3525125.jpg.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Arts/Background/3525125.jpg.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Arts/Background/Box.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Arts/Background/Box.png.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Arts/Background/button.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Arts/Background/button.png.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Arts/Background/setting.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Arts/Background/setting.png.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Arts/Background/settingButton.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Arts/Background/settingButton.png.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Arts/UI/auto.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Arts/UI/auto.png.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Arts/UI/cancel.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Arts/UI/cancel.png.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Arts/UI/cross.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Arts/UI/cross.png.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Arts/UI/hamburger icon.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Arts/UI/hamburger icon.png.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Arts/UI/left.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Arts/UI/left.png.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Arts/UI/menu2.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Arts/UI/menu2.png.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Arts/UI/right.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Arts/UI/right.png.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Arts/UI/settings.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Arts/UI/settings.png.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Font/7000+symbols.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Font/7000+symbols.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Font/LuoLITi SDF.asset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Font/LuoLITi SDF.asset.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Font/LuoLITi.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Font/LuoLITi.ttf.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Prefs/OptionButton.prefab" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Prefs/OptionButton.prefab" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Prefs/SceneTemplate.prefab" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Prefs/SceneTemplate.prefab" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Prefs/item.prefab" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Prefs/item.prefab" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scenes/CoffeeShop.unity" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scenes/CoffeeShop.unity" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -29,86 +54,24 @@
   <component name="HighlightingSettingsPerFile">
     <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/d406cf45bbc94322aa57bfaaa26af375177800/14/6160f617/Sprite.cs" root0="SKIP_HIGHLIGHTING" />
     <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/d406cf45bbc94322aa57bfaaa26af375177800/ac/92132fcc/TextAsset.cs" root0="SKIP_HIGHLIGHTING" />
-    <setting file="mock:///Users/lagdadsli/RiderProjects/Unimelb_game/Assets/Arts/Background/3525125.jpg.meta" root0="SKIP_HIGHLIGHTING" />
-    <setting file="mock:///Users/lagdadsli/RiderProjects/Unimelb_game/Assets/Arts/Background/3525125.jpg.meta" root0="SKIP_HIGHLIGHTING" />
-    <setting file="mock:///Users/lagdadsli/RiderProjects/Unimelb_game/Assets/Arts/Background/3525125.jpg.meta" root0="SKIP_HIGHLIGHTING" />
-    <setting file="mock:///Users/lagdadsli/RiderProjects/Unimelb_game/Assets/Arts/Background/3525125.jpg.meta" root0="SKIP_HIGHLIGHTING" />
-    <setting file="mock:///Users/lagdadsli/RiderProjects/Unimelb_game/Assets/Arts/Background/3525125.jpg.meta" root0="SKIP_HIGHLIGHTING" />
-    <setting file="mock:///Users/lagdadsli/RiderProjects/Unimelb_game/Assets/Arts/Background/3525125.jpg.meta" root0="SKIP_HIGHLIGHTING" />
-    <setting file="mock:///Users/lagdadsli/RiderProjects/Unimelb_game/Assets/Arts/Background/3525125.jpg.meta" root0="SKIP_HIGHLIGHTING" />
-    <setting file="mock:///Users/lagdadsli/RiderProjects/Unimelb_game/Assets/Arts/Background/3525125.jpg.meta" root0="SKIP_HIGHLIGHTING" />
-    <setting file="mock:///Users/lagdadsli/RiderProjects/Unimelb_game/Assets/Arts/Background/3525125.jpg.meta" root0="SKIP_HIGHLIGHTING" />
-    <setting file="mock:///Users/lagdadsli/RiderProjects/Unimelb_game/Assets/Arts/Background/3525125.jpg.meta" root0="SKIP_HIGHLIGHTING" />
-    <setting file="mock:///Users/lagdadsli/RiderProjects/Unimelb_game/Assets/Arts/Background/3525125.jpg.meta" root0="SKIP_HIGHLIGHTING" />
-    <setting file="mock:///Users/lagdadsli/RiderProjects/Unimelb_game/Assets/Arts/Background/3525125.jpg.meta" root0="SKIP_HIGHLIGHTING" />
-    <setting file="mock:///Users/lagdadsli/RiderProjects/Unimelb_game/Assets/Arts/Background/3525125.jpg.meta" root0="SKIP_HIGHLIGHTING" />
-    <setting file="mock:///Users/lagdadsli/RiderProjects/Unimelb_game/Assets/Arts/Background/3525125.jpg.meta" root0="SKIP_HIGHLIGHTING" />
-    <setting file="mock:///Users/lagdadsli/RiderProjects/Unimelb_game/Assets/Arts/Background/3525125.jpg.meta" root0="SKIP_HIGHLIGHTING" />
-    <setting file="mock:///Users/lagdadsli/RiderProjects/Unimelb_game/Assets/Arts/Background/3525125.jpg.meta" root0="SKIP_HIGHLIGHTING" />
-    <setting file="mock:///Users/lagdadsli/RiderProjects/Unimelb_game/Assets/Arts/Background/3525125.jpg.meta" root0="SKIP_HIGHLIGHTING" />
-    <setting file="mock:///Users/lagdadsli/RiderProjects/Unimelb_game/Assets/Arts/Background/3525125.jpg.meta" root0="SKIP_HIGHLIGHTING" />
-    <setting file="mock:///Users/lagdadsli/RiderProjects/Unimelb_game/Assets/Arts/Background/3525125.jpg.meta" root0="SKIP_HIGHLIGHTING" />
-    <setting file="mock:///Users/lagdadsli/RiderProjects/Unimelb_game/Assets/Arts/Background/3525125.jpg.meta" root0="SKIP_HIGHLIGHTING" />
-    <setting file="mock:///Users/lagdadsli/RiderProjects/Unimelb_game/Assets/Arts/Background/3525125.jpg.meta" root0="SKIP_HIGHLIGHTING" />
-    <setting file="mock:///Users/lagdadsli/RiderProjects/Unimelb_game/Assets/Arts/Background/3525125.jpg.meta" root0="SKIP_HIGHLIGHTING" />
-    <setting file="mock:///Users/lagdadsli/RiderProjects/Unimelb_game/Assets/Arts/Background/3525125.jpg.meta" root0="SKIP_HIGHLIGHTING" />
-    <setting file="mock:///Users/lagdadsli/RiderProjects/Unimelb_game/Assets/Arts/Background/3525125.jpg.meta" root0="SKIP_HIGHLIGHTING" />
-    <setting file="mock:///Users/lagdadsli/RiderProjects/Unimelb_game/Assets/Prefs/item.prefab" root0="SKIP_HIGHLIGHTING" />
-    <setting file="mock:///Users/lagdadsli/RiderProjects/Unimelb_game/Assets/Prefs/item.prefab" root0="SKIP_HIGHLIGHTING" />
-    <setting file="mock:///Users/lagdadsli/RiderProjects/Unimelb_game/Assets/Prefs/item.prefab" root0="SKIP_HIGHLIGHTING" />
-    <setting file="mock:///Users/lagdadsli/RiderProjects/Unimelb_game/Assets/Prefs/item.prefab" root0="SKIP_HIGHLIGHTING" />
-    <setting file="mock:///Users/lagdadsli/RiderProjects/Unimelb_game/Assets/Prefs/item.prefab" root0="SKIP_HIGHLIGHTING" />
-    <setting file="mock:///Users/lagdadsli/RiderProjects/Unimelb_game/Assets/Prefs/item.prefab" root0="SKIP_HIGHLIGHTING" />
-    <setting file="mock:///Users/lagdadsli/RiderProjects/Unimelb_game/Assets/Prefs/item.prefab" root0="SKIP_HIGHLIGHTING" />
-    <setting file="mock:///Users/lagdadsli/RiderProjects/Unimelb_game/Assets/Prefs/item.prefab" root0="SKIP_HIGHLIGHTING" />
-    <setting file="mock:///Users/lagdadsli/RiderProjects/Unimelb_game/Assets/Prefs/item.prefab" root0="SKIP_HIGHLIGHTING" />
-    <setting file="mock:///Users/lagdadsli/RiderProjects/Unimelb_game/Assets/Prefs/item.prefab" root0="SKIP_HIGHLIGHTING" />
-    <setting file="mock:///Users/lagdadsli/RiderProjects/Unimelb_game/Assets/Prefs/item.prefab" root0="SKIP_HIGHLIGHTING" />
-    <setting file="mock:///Users/lagdadsli/RiderProjects/Unimelb_game/Assets/Prefs/item.prefab" root0="SKIP_HIGHLIGHTING" />
-    <setting file="mock:///Users/lagdadsli/RiderProjects/Unimelb_game/Assets/Scenes/CoffeeShop.unity" root0="SKIP_HIGHLIGHTING" />
-    <setting file="mock:///Users/lagdadsli/RiderProjects/Unimelb_game/Assets/Scenes/CoffeeShop.unity" root0="SKIP_HIGHLIGHTING" />
-    <setting file="mock:///Users/lagdadsli/RiderProjects/Unimelb_game/Assets/Scenes/CoffeeShop.unity" root0="SKIP_HIGHLIGHTING" />
-    <setting file="mock:///Users/lagdadsli/RiderProjects/Unimelb_game/Assets/Scenes/CoffeeShop.unity" root0="SKIP_HIGHLIGHTING" />
-    <setting file="mock:///Users/lagdadsli/RiderProjects/Unimelb_game/Assets/Scenes/CoffeeShop.unity" root0="SKIP_HIGHLIGHTING" />
-    <setting file="mock:///Users/lagdadsli/RiderProjects/Unimelb_game/Assets/Scenes/CoffeeShop.unity" root0="SKIP_HIGHLIGHTING" />
-    <setting file="mock:///Users/lagdadsli/RiderProjects/Unimelb_game/Assets/Scenes/CoffeeShop.unity" root0="SKIP_HIGHLIGHTING" />
-    <setting file="mock:///Users/lagdadsli/RiderProjects/Unimelb_game/Assets/Scenes/CoffeeShop.unity" root0="SKIP_HIGHLIGHTING" />
-    <setting file="mock:///Users/lagdadsli/RiderProjects/Unimelb_game/Assets/Scenes/CoffeeShop.unity" root0="SKIP_HIGHLIGHTING" />
-    <setting file="mock:///Users/lagdadsli/RiderProjects/Unimelb_game/Assets/Scenes/CoffeeShop.unity" root0="SKIP_HIGHLIGHTING" />
-    <setting file="mock:///Users/lagdadsli/RiderProjects/Unimelb_game/Assets/Scenes/CoffeeShop.unity" root0="SKIP_HIGHLIGHTING" />
-    <setting file="mock:///Users/lagdadsli/RiderProjects/Unimelb_game/Assets/Scenes/CoffeeShop.unity" root0="SKIP_HIGHLIGHTING" />
-    <setting file="mock:///Users/lagdadsli/RiderProjects/Unimelb_game/Assets/Scenes/CoffeeShop.unity" root0="SKIP_HIGHLIGHTING" />
-    <setting file="mock:///Users/lagdadsli/RiderProjects/Unimelb_game/Assets/Scenes/CoffeeShop.unity" root0="SKIP_HIGHLIGHTING" />
-    <setting file="mock:///Users/lagdadsli/RiderProjects/Unimelb_game/Assets/Scenes/CoffeeShop.unity" root0="SKIP_HIGHLIGHTING" />
-    <setting file="mock:///Users/lagdadsli/RiderProjects/Unimelb_game/Assets/Scenes/CoffeeShop.unity" root0="SKIP_HIGHLIGHTING" />
-    <setting file="mock:///Users/lagdadsli/RiderProjects/Unimelb_game/Assets/Scenes/CoffeeShop.unity" root0="SKIP_HIGHLIGHTING" />
-    <setting file="mock:///Users/lagdadsli/RiderProjects/Unimelb_game/Assets/Scenes/CoffeeShop.unity" root0="SKIP_HIGHLIGHTING" />
-    <setting file="mock:///Users/lagdadsli/RiderProjects/Unimelb_game/Assets/Scenes/CoffeeShop.unity" root0="SKIP_HIGHLIGHTING" />
-    <setting file="mock:///Users/lagdadsli/RiderProjects/Unimelb_game/Assets/Scenes/CoffeeShop.unity" root0="SKIP_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/Assets/Scripts/ButtonManager/ButtonManager.cs" root0="SKIP_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/Assets/Scripts/ButtonManager/SettingButtons.cs" root0="SKIP_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/Assets/Scripts/DialogueManager/DialogueManager.cs" root0="SKIP_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/Assets/Scripts/DialogueManager/DifferentSymbols.cs" root0="SKIP_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/Assets/Scripts/GameObjects/History_Item/ItemHeightControl.cs" root0="SKIP_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/Assets/Scripts/IndieClasses/AudioDialogue.cs" root0="SKIP_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/Assets/Scripts/IndieClasses/CSVParser.cs" root0="SKIP_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/Assets/Scripts/IndieClasses/Character.cs" root0="SKIP_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/Assets/Scripts/IndieClasses/DialogueConfig.cs" root0="SKIP_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/Assets/Scripts/IndieClasses/DialogueLine.cs" root0="SKIP_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/Assets/Scripts/IndieClasses/HistoryItem.cs" root0="SKIP_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/Assets/Scripts/IndieClasses/TachieDialogue.cs" root0="SKIP_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/Assets/Scripts/IndieInterfaces/ObserverInterface.cs" root0="SKIP_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/Assets/Scripts/MainUi.cs" root0="SKIP_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Sub-Managers/AudioManager.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/ButtonManager/ButtonManager.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/ButtonManager/SettingButtons.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/DialogueManager/DialogueManager.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/DialogueManager/DifferentSymbols.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/GameObjects/History_Item/ItemHeightControl.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/IndieClasses/AudioDialogue.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/IndieClasses/CSVParser.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/IndieClasses/Character.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/IndieClasses/DialogueConfig.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/IndieClasses/DialogueLine.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/IndieClasses/HistoryItem.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/IndieClasses/TachieDialogue.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/IndieInterfaces/ObserverInterface.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/MainUi.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Sub-Managers/AudioManager.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/TextMesh Pro/Examples &amp; Extras/Scripts/Benchmark01_UGUI.cs" root0="SKIP_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Library/PackageCache/com.coplaydev.unity-mcp@ce8ab83256/Editor/Tools/ExecuteMenuItem.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Library/PackageCache/com.coplaydev.unity-mcp@ce8ab83256/Editor/UnityMcpBridge.cs" root0="SKIP_HIGHLIGHTING" />
-    <setting file="mock:///Users/lagdadsli/RiderProjects/Unimelb_game/Library/ProtocolInstance.json" root0="FORCE_HIGHLIGHTING" />
-    <setting file="mock:///Users/lagdadsli/RiderProjects/Unimelb_game/Library/ProtocolInstance.json" root0="FORCE_HIGHLIGHTING" />
-    <setting file="mock:///Users/lagdadsli/RiderProjects/Unimelb_game/Library/ProtocolInstance.json" root0="FORCE_HIGHLIGHTING" />
-    <setting file="mock://EditorInstance.json" root0="FORCE_HIGHLIGHTING" />
-    <setting file="mock://EditorInstance.json" root0="FORCE_HIGHLIGHTING" />
-    <setting file="mock://EditorInstance.json" root0="FORCE_HIGHLIGHTING" />
   </component>
   <component name="MetaFilesCheckinStateConfiguration" checkMetaFiles="true" />
   <component name="ProjectColorInfo">{
@@ -119,21 +82,22 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;ASKED_SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
-    &quot;ModuleVcsDetector.initialDetectionPerformed&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
-    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
-    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
-    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
-    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
-    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;CodeLensConfigurable&quot;,
-    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ASKED_SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "git-widget-placeholder": "main",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "settings.editor.selected.configurable": "CodeLensConfigurable",
+    "vue.rearranger.settings.migration": "true"
   }
-}</component>
+}]]></component>
   <component name="RunManager" selected="附加到 Unity 编辑器.附加到 Unity 编辑器">
     <configuration name="启动 Unity" type="RunUnityExe" factoryName="Unity Executable">
       <option name="EXE_PATH" value="/Applications/Unity/Hub/Editor/2022.3.60f1c1/Unity.app/Contents/MacOS/Unity" />
@@ -204,6 +168,7 @@
       <workItem from="1755062675668" duration="1390000" />
       <workItem from="1755064399247" duration="1234000" />
       <workItem from="1755065711869" duration="2000" />
+      <workItem from="1755066383363" duration="2150000" />
     </task>
     <task id="LOCAL-00001" summary="初始化仓库">
       <option name="closed" value="true" />
@@ -221,7 +186,15 @@
       <option name="project" value="LOCAL" />
       <updated>1755064657357</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="初步的对话系统">
+      <option name="closed" value="true" />
+      <created>1755067431388</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1755067431388</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -250,7 +223,8 @@
     <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="true" />
     <MESSAGE value="初始化仓库" />
     <MESSAGE value="加入基本对话系统" />
-    <option name="LAST_COMMIT_MESSAGE" value="加入基本对话系统" />
+    <MESSAGE value="初步的对话系统" />
+    <option name="LAST_COMMIT_MESSAGE" value="初步的对话系统" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
