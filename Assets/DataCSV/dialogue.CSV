@@ -1,3 +1,22 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:ab7e57ef19356f0f47d44719667c088a67be37fcacffb0e4a7fff052c9674e1b
-size 1447
+﻿编号,标志,名称,文本,跳转,立绘,结束
+0,W,星星火柴,这里是哪里？,1,default,FINAL
+1,T,,我缓缓张开眼后，发现自己正坐在一个人来人往的咖啡厅里喝咖啡。,2,default,FINAL
+2,W,星星火柴,哎？奇怪……我不是躺在床上睡觉了吗？,3,default,FINAL
+3,T,,这时，耳边传来两个少女的声音。,4,default,FINAL
+4,W,千早 爱音,soyo桑，要一起组乐队吗？,5,default,FINAL
+5,W,长崎 素世,一哟~,6,default,FINAL
+6,W,千早 爱音,哟卡达！soyo桑，love！,7,default,FINAL
+7,T,,嗯？我似乎撞见了邀请组乐队这样的壮观场面。,8,default,FINAL
+8,T,,细想一下，我在我的故乡也有着主唱之王的称呼，而且常常被别人夸赞我主唱很拼命。,9,default,FINAL
+9,T,,说着，我向那二人走去。,10,default,FINAL
+10,O,,你好，我想成为主唱。,13,default,FINAL
+11,O,,你好，请问这里是哪里？,17,default,FINAL
+12,O,,还是算了，我连这里是哪里都不知道。,19,default,FINAL
+13,W,千早 爱音,真的吗！十分欢迎！,14,default,FINAL
+14,W,星星火柴,太好了，那我就跟你们走了！,15,default,FINAL
+15,T,,说着，我加入到了他们的对话中,16,default,FINAL
+16,END,,,,default,FINAL
+17,W,长崎 素世,唉？好奇怪的人。,18,default,FINAL
+18,T,,空气陷入了莫名的寂静中，我恐怕是自讨没趣了。,19,default,FINAL
+19,T,,于是，我走出了咖啡厅。,16,default,FINAL
+

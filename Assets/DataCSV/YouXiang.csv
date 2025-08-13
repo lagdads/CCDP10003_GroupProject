@@ -1,3 +1,28 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:08e23f1dd818f3ef987a2bcf665565001ac0b7826c8e7dc1316583ac691db2e9
-size 1982
+编号,标志,名称,文本,跳转,立绘,结束
+0,W,sensei,为师最近发现了一个绝佳的投资机会！,1,default,FINAL
+1,W,YouXiang,老师，你又在做什么奇怪的事情？,2,default,FINAL
+2,W,YouXiang,老师，你是被谁给忽悠了吗？,3,default,FINAL
+3,W,YouXiang,怎么突然这样说？,4,default,FINAL
+4,W,sensei,哼哼哼~,5,default,FINAL
+5,W,sensei,实话告诉你吧，为师靠自己的双手实现了财富自由~,6,default,FINAL
+6,W,YouXiang,什么！？老师只凭自己就能实现财富自由？,7,default,FINAL
+7,W,YouXiang,果然是被骗了吧……,8,default,FINAL
+8,W,sensei,你太天真了，为师这么聪明怎么会被骗呢。,9,default,FINAL
+9,W,sensei,实话告诉你吧，有个自称蒙面泳装团团长的大人物急需一笔资金来让他恢复元气。,10,default,FINAL
+10,W,sensei,关键的是她答应我事成之后重金答谢。,11,default,FINAL
+11,W,sensei,YouXiang亲，现在知道我的手段了吧~,12,default,FINAL
+12,W,YouXiang,呃，虽然我不想打击老师，但这种来历不明的组织听起来就不像是正经的吧！,13,default,FINAL
+13,W,YouXiang,还是老老实实通过我的账目管理来积累财富吧！,14,default,FINAL
+14,O,,不行，我偏要试试！,16,default,FINAL
+15,O,,仔细想想，确实有点蹊跷。,17,default,FINAL
+16,W,sensei,不行，我偏要试试！我已经把这个月的零花钱统统投资了，你就等着我的好消息吧！,24,default,FINAL
+17,W,sensei,好吧，你说得对，为师还是老老实实呆在家打游戏吧……,18,default,FINAL
+18,T,,叮咚~,19,default,FINAL
+19,W,sensei,哦！快递到啦！,20,default,FINAL
+20,T,,在YouXiang面前拆开了包装盒。,21,default,FINAL
+21,W,sensei,嗯——最新的miku酱手办，这触感~,22,default,FINAL
+22,W,YouXiang,老师——你又乱花钱！,23,default,FINAL
+23,T,,布豪，快逃！,25,default,FINAL
+24,W,YouXiang,哎，老师你已经没救了……,18,default,FINAL
+25,END,,,,default,FINAL
+

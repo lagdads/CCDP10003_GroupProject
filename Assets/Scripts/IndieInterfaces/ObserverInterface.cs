@@ -1,3 +1,6 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:b4cf8418c03190471c0020d681738253efece92b131ce3a7af45a85bb9637357
-size 164
+//音频管理器、立绘管理器等观察者的接口，时机为W或T对话行推进时
+
+public interface ObserverInterface
+{
+    public void executeUpdate();
+}
